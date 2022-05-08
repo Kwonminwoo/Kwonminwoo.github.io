@@ -12,7 +12,6 @@ toc: true
 <br>
 - response.sendRedirect()메소드를 이용해 클라이언트에게 메시지를 전달함
 ```jsp
-
 <%
 	response.sendRedirect("abc.jsp");
 %>

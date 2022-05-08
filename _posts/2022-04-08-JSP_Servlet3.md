@@ -20,6 +20,7 @@ response.getWriter() 등의 메소드를 이용해 처리<br>
 3. service()
 4. destroy()
 5. @PreDestroy
+<br>
 
 - @PostConstruct는 Annotation으로 작성하고자 하는 메소드 위에 달아주면 기능을 하게됨.
 준비단계이다.
